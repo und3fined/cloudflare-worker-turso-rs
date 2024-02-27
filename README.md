@@ -4,11 +4,11 @@
 ## Setup with create cloudflare
 
 ```sh
-$ npm create cloudflare@2 my-project und3fined/cloudflare-worker-turso-rs
+$ npm create cloudflare@2 --template und3fined/cloudflare-worker-turso-rs
 # or
-$ yarn create cloudflare@2 my-project und3fined/cloudflare-worker-turso-rs
+$ yarn create cloudflare@2 --template und3fined/cloudflare-worker-turso-rs
 # or
-$ pnpm create cloudflare@2 my-project und3fined/cloudflare-worker-turso-rs
+$ pnpm create cloudflare@2 --template und3fined/cloudflare-worker-turso-rs
 ```
 
 ## Setup (Deprecated). Never work with wrangler@4 and above

@@ -8,6 +8,9 @@ export default {
       src: {
         path: "./src",
       },
+      "package.json": {
+        path: "./package.json",
+      },
     },
   },
 };
